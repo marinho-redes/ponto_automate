@@ -27,7 +27,7 @@ Edite as credenciais no topo do script:
 ```python
 COD_EMPREGADOR = 'ABCDEF'
 PIN            = '123456'
-EMAIL          = 'seu@email.com'
+EMAIL          = 'seuemail@seuprovedor.com'
 ```
 
 Não versione essas variáveis. O código já tem `getpass()` comentado como alternativa, ou use variáveis de ambiente.
